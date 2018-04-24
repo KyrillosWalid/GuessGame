@@ -6,6 +6,15 @@ xm = int(random.randint(0,1000))
 xd = int(random.random() * 100)
 mxvd = xve + 0.6 + xe + 0.4 + xm + 0.02 + xd + 0.04
 xvd = float(random.randint(0,1000) + random.randint(0,1000) + mxvd)
+print("**********************************************************")
+print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
+print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
+print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
+print("* WWW.FACEBOOK.COM/KOKADEV                               *")
+print("  WWW.GITHUB.COM/KOKADev                                 *")
+print("**********************************************************")
+print("==========================================================")
 print("╔═══╦╗ ╔╦═══╦═══╦═══╗    ╔═══╦═══╦═╗╔═╦═══╗")
 print("║╔═╗║║ ║║╔══╣╔═╗║╔═╗║    ║╔═╗║╔═╗║║╚╝║║╔══╝")
 print("║║─╚╣║ ║║╚══╣╚══╣╚══╗    ║║─╚╣║─║║╔╗╔╗║╚══╗")
@@ -50,6 +59,16 @@ def vegame():
             print("After {}".format(t),"tries")
             s = xve - t
             print("Your score is : {}".format(s))
+
+            print("**********************************************************")
+            print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+            print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
+            print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
+            print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
+            print("* WWW.FACEBOOK.COM/KOKADEV                               *")
+            print("  WWW.GITHUB.COM/KOKADev                                 *")
+            print("**********************************************************")
+
             break
 
 def egame():
@@ -85,11 +104,18 @@ def egame():
                 print("Okey... Guess!")
         if(xe == y):
             print("")
-            print(t)
             print("Congratulations! You guessed the right number :D")
             print("After {}".format(t),"tries")
             s = xe*2 - t
             print("Your score is : {}".format(s))
+            print("**********************************************************")
+            print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+            print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
+            print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
+            print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
+            print("* WWW.FACEBOOK.COM/KOKADEV                               *")
+            print("  WWW.GITHUB.COM/KOKADev                                 *")
+            print("**********************************************************")
             break
 
 def mgame():
@@ -125,11 +151,18 @@ def mgame():
                 print("Okey... Guess!")
         if(xm == y):
             print("")
-            print(t)
             print("Congratulations! You guessed the right number :D")
             print("After {}".format(t),"tries")
             s = xm*3 - t
             print("Your score is : {}".format(s))
+            print("**********************************************************")
+            print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+            print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
+            print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
+            print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
+            print("* WWW.FACEBOOK.COM/KOKADEV                               *")
+            print("  WWW.GITHUB.COM/KOKADev                                 *")
+            print("**********************************************************")
             break
 
 def dgame():
@@ -165,11 +198,18 @@ def dgame():
                 print("Okey... Guess!")
         if(xd == y):
             print("")
-            print(t)
             print("Congratulations! You guessed the right number :D")
             print("After {}".format(t),"tries")
             s = xd*4 - t
             print("Your score is : {}".format(s))
+            print("**********************************************************")
+            print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+            print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
+            print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
+            print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
+            print("* WWW.FACEBOOK.COM/KOKADEV                               *")
+            print("  WWW.GITHUB.COM/KOKADev                                 *")
+            print("**********************************************************")
             break
 
 def vdgame():
@@ -217,11 +257,18 @@ def vdgame():
                 print("Okey... Guess!")
         if(xvd == y):
             print("")
-            print(t)
             print("Congratulations! You guessed the right number :D")
             print("After {}".format(t),"tries")
             s = vde*5 - t
             print("Your score is : {}".format(s))
+            print("**********************************************************")
+            print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+            print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
+            print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
+            print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
+            print("* WWW.FACEBOOK.COM/KOKADEV                               *")
+            print("  WWW.GITHUB.COM/KOKADev                                 *")
+            print("**********************************************************")
             break
 
 
