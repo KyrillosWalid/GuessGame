@@ -217,7 +217,7 @@ def vdgame():
     print("")
     while True:
         try:
-            y = int(input(""))
+            y = float(input(""))
         except Exception:
             print("Erorr : Enter Valid Number.")
             vdgame()
