@@ -7,12 +7,12 @@ xd = int(random.random() * 100)
 mxvd = xve + 0.6 + xe + 0.4 + xm + 0.02 + xd + 0.04
 xvd = float(random.randint(0,1000) + random.randint(0,1000) + mxvd)
 print("**********************************************************")
-print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+print("* THIS CODE BY KYRILLOSWALIDRADI                         *")
 print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
 print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
 print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
-print("* WWW.FACEBOOK.COM/KOKADEV                               *")
-print("*  WWW.GITHUB.COM/KOKADev                                *")
+print("* WWW.FACEBOOK.COM/KyrillosWalid                         *")
+print("*  WWW.GITHUB.COM/KyrillosWalid                          *")
 print("**********************************************************")
 print("==========================================================")
 print("╔═══╦╗ ╔╦═══╦═══╦═══╗    ╔═══╦═══╦═╗╔═╦═══╗")
@@ -61,12 +61,12 @@ def vegame():
             print("Your score is : {}".format(s))
 
             print("**********************************************************")
-            print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+            print("* THIS CODE BY KYRILLOSWALIDRADI                         *")
             print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
             print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
             print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
-            print("* WWW.FACEBOOK.COM/KOKADEV                               *")
-            print("  WWW.GITHUB.COM/KOKADev                                 *")
+            print("* WWW.FACEBOOK.COM/KyrillosWalid                         *")
+            print("*  WWW.GITHUB.COM/KyrillosWalid                          *")
             print("**********************************************************")
 
             break
@@ -109,12 +109,12 @@ def egame():
             s = xe*2 - t
             print("Your score is : {}".format(s))
             print("**********************************************************")
-            print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+            print("* THIS CODE BY KYRILLOSWALIDRADI                         *")
             print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
             print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
             print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
-            print("* WWW.FACEBOOK.COM/KOKADEV                               *")
-            print("  WWW.GITHUB.COM/KOKADev                                 *")
+            print("* WWW.FACEBOOK.COM/KyrillosWalid                         *")
+            print("* WWW.GITHUB.COM/KyrillosWalid                           *")
             print("**********************************************************")
             break
 
@@ -156,12 +156,12 @@ def mgame():
             s = xm*3 - t
             print("Your score is : {}".format(s))
             print("**********************************************************")
-            print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
+            print("* THIS CODE BY KYRILLOSWALIDRADI                         *")
             print("* ALL COPYRIGHYS ARE SAVED TO KYRILLOSWALIDRADI          *")
             print("* + 2 0 1 0 6 2 7 0 4 4 1 3 - + 2 0 1 2 1 1 2 8 0 3 5 8  *")
             print("* KYRILLOSWALIDRADI@HOTMAIL.COM                          *")
-            print("* WWW.FACEBOOK.COM/KOKADEV                               *")
-            print("  WWW.GITHUB.COM/KOKADev                                 *")
+            print("* WWW.FACEBOOK.COM/KyrillosWalid                         *")
+            print("*  WWW.GITHUB.COM/KyrillosWalid                          *")
             print("**********************************************************")
             break
 
